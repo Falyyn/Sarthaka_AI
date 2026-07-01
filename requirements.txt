@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+pydantic
+langchain-google-genai
+langchain-community
+faiss-cpu
